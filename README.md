@@ -4,3 +4,4 @@ chances for usa visa to approve
 - downlaod vs code
 - download gitbash
 - create an account on github
+- https://www.evidentlyai.com/ # for MLops
