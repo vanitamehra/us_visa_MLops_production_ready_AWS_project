@@ -6,7 +6,7 @@ chances for usa visa to approve
 - create an account on github
 - https://www.evidentlyai.com/ # for MLops
 - https://whimsical.com  # for flowchart
-
+- https://account.mongodb.com/account/login    # mongo DB
 
 ## Git commands:
 ''' bash
@@ -31,5 +31,7 @@ conda activate visa
 '''bash
 pip install -r requirements.txt
 '''
+
+
 
 
